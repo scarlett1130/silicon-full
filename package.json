@@ -38,7 +38,8 @@
     "qs": "^6.11.0",
     "random-words": "^1.2.0",
     "scss-tokenizer": "^0.4.2",
-    "slugify": "^1.6.5"
+    "slugify": "^1.6.5",
+    "tr46": "^3.0.0"
   },
   "devDependencies": {
     "eslint": "^8.23.1",
